@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{ 
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+    
+}
+#encabezado{
+    
+    background-color: rgba(147, 112, 216, 0.607);
+    text-align: center;
+}
+
+#navegar{
+
+    background-color: rgb(136, 198, 43);
+    color: black;
+     border-bottom: 3px solid #f4f4f4;
+}
+
+#navegar ul{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    list-style: none;
+}
+
+#navegar li{
+    
+    display: inline;
+}
+
+#navegar a{
+    
+    color: rgb(77, 34, 34);
+    text-decoration: none;
+    font-size: 22px;
+    padding: 10px 60px 6px 0;
+}
